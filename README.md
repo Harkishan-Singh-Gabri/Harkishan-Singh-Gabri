@@ -91,11 +91,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harkishan-Singh-Gabri&label=Profile%20Views&color=0E91EB&style=flat-square" alt="profile-views" />
-</p>
-
----
 
 <p align="center">
   <i>“Code is more than syntax; it's a solution.”</i>
